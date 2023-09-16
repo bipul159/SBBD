@@ -31,7 +31,7 @@ def linex():
 	     
 #-------clear def-------#
 def clear():
-	clr('clear)
+	
 	print(logo)
 #---------main def-----#
 def Mr.Bipul()
