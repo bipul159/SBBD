@@ -18,7 +18,7 @@ U = '\x1b[1;95m' #
 O = '\x1b[1;96m' #
 N = '\x1b[0m' #
 #---------logo----------#
-   logo(f'''
+  
 
 ----------wifi+data-----------
 Owner    : Bipul Khan
