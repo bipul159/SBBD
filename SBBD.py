@@ -28,7 +28,7 @@ Tools     : SB BD Random
 Status    : Trial 
 #-------linex def------#
 def linex():
-	     print(f'(------------------------------B)
+	     print(f'(B)
 #-------clear def-------#
 def clear():
 	clr('clear)
